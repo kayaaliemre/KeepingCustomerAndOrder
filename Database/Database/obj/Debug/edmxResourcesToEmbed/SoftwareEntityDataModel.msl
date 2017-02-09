@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SoftwareModelStoreContainer" CdmEntityContainer="SoftwareEntities">
+    <EntitySetMapping Name="Billing">
+      <EntityTypeMapping TypeName="SoftwareModel.Billing">
+        <MappingFragment StoreEntitySet="Billing">
+          <ScalarProperty Name="billing_id" ColumnName="billing_id" />
+          <ScalarProperty Name="billing_type" ColumnName="billing_type" />
+          <ScalarProperty Name="billing_cost" ColumnName="billing_cost" />
+          <ScalarProperty Name="billing_customer" ColumnName="billing_customer" />
+          <ScalarProperty Name="billing_product" ColumnName="billing_product" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Company">
+      <EntityTypeMapping TypeName="SoftwareModel.Company">
+        <MappingFragment StoreEntitySet="Company">
+          <ScalarProperty Name="company_id" ColumnName="company_id" />
+          <ScalarProperty Name="company_name" ColumnName="company_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customer">
+      <EntityTypeMapping TypeName="SoftwareModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="customer_id" ColumnName="customer_id" />
+          <ScalarProperty Name="customer_name" ColumnName="customer_name" />
+          <ScalarProperty Name="customer_surname" ColumnName="customer_surname" />
+          <ScalarProperty Name="customer_gender" ColumnName="customer_gender" />
+          <ScalarProperty Name="customer_adress" ColumnName="customer_adress" />
+          <ScalarProperty Name="customer_job" ColumnName="customer_job" />
+          <ScalarProperty Name="customer_soft" ColumnName="customer_soft" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Department">
+      <EntityTypeMapping TypeName="SoftwareModel.Department">
+        <MappingFragment StoreEntitySet="Department">
+          <ScalarProperty Name="department_id" ColumnName="department_id" />
+          <ScalarProperty Name="department_name" ColumnName="department_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employee">
+      <EntityTypeMapping TypeName="SoftwareModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="employee_id" ColumnName="employee_id" />
+          <ScalarProperty Name="employee_name" ColumnName="employee_name" />
+          <ScalarProperty Name="employee_surname" ColumnName="employee_surname" />
+          <ScalarProperty Name="employee_gender" ColumnName="employee_gender" />
+          <ScalarProperty Name="employee_salary" ColumnName="employee_salary" />
+          <ScalarProperty Name="employee_department" ColumnName="employee_department" />
+          <ScalarProperty Name="employee_start_date" ColumnName="employee_start_date" />
+          <ScalarProperty Name="employee_coid" ColumnName="employee_coid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gender">
+      <EntityTypeMapping TypeName="SoftwareModel.Gender">
+        <MappingFragment StoreEntitySet="Gender">
+          <ScalarProperty Name="gender_id" ColumnName="gender_id" />
+          <ScalarProperty Name="gender_name" ColumnName="gender_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Payment">
+      <EntityTypeMapping TypeName="SoftwareModel.Payment">
+        <MappingFragment StoreEntitySet="Payment">
+          <ScalarProperty Name="payment_id" ColumnName="payment_id" />
+          <ScalarProperty Name="payment_type" ColumnName="payment_type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="SoftwareModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="product_id" ColumnName="product_id" />
+          <ScalarProperty Name="product_name" ColumnName="product_name" />
+          <ScalarProperty Name="product_cost" ColumnName="product_cost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Setup">
+      <EntityTypeMapping TypeName="SoftwareModel.Setup">
+        <MappingFragment StoreEntitySet="Setup">
+          <ScalarProperty Name="setup_id" ColumnName="setup_id" />
+          <ScalarProperty Name="setup_date" ColumnName="setup_date" />
+          <ScalarProperty Name="setup_product" ColumnName="setup_product" />
+          <ScalarProperty Name="setup_costumer" ColumnName="setup_costumer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Softwares">
+      <EntityTypeMapping TypeName="SoftwareModel.Softwares">
+        <MappingFragment StoreEntitySet="Softwares">
+          <ScalarProperty Name="software_id" ColumnName="software_id" />
+          <ScalarProperty Name="software_name" ColumnName="software_name" />
+          <ScalarProperty Name="employee_id" ColumnName="employee_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="SoftwareModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

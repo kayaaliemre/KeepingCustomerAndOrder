@@ -1,0 +1,87 @@
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\Database.exe.config
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\Database.exe
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\Database.pdb
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.Billing.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.Customer.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.Employee.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.EnterPage.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.Product.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.Setup.resources
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.exe
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.pdb
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\documents\visual studio 2015\Projects\Database\Database\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\Database.exe.config
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.exe
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.pdb
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.BillingForm.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.CustomerForm.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.EmployeeForm.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.EnterPageForm.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.ProductForm.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.SetupForm.resources
+C:\Users\KAYA\Downloads\Database\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\Database.exe
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\Database.pdb
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\EntityFramework.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\EntityFramework.xml
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Downloads\Database\Database\Database\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\Database.exe.config
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.exe
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.pdb
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\Database.exe
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\Database.pdb
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\EntityFramework.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\EntityFramework.xml
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.BillingForm.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.CustomerForm.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.EmployeeForm.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.EnterPageForm.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.ProductForm.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.SetupForm.resources
+C:\Users\KAYA\Desktop\Database\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache

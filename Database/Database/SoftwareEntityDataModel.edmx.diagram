@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d3245ddd4c454caf8ad14d8d600897c0" Name="Diagram1">
+        <EntityTypeShape EntityType="SoftwareModel.Billing" Width="1.5" PointX="8.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Company" Width="1.5" PointX="3.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Customer" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Department" Width="1.5" PointX="3.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Employee" Width="1.5" PointX="6" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Gender" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Payment" Width="1.5" PointX="6" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Product" Width="1.5" PointX="6" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Setup" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.Softwares" Width="1.5" PointX="8.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SoftwareModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="SoftwareModel.FK_Billing_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Billing_Payment1" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Billing_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Employee_Company" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Customer_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Customer_Softwares" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Setup_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Employee_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Employee_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="SoftwareModel.FK_Softwares_Employee" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
